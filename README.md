@@ -30,8 +30,7 @@ Performance trends over time.
 
 Comparative insights into which channels drive efficiency.
 
-
-(Insert dashboard screenshot here)
+<img width="3034" height="3484" alt="Image" src="https://github.com/user-attachments/assets/fe1619e3-5baf-4aa7-9f66-b15408a91f9f" />
 
 ## 🚀 Key Insights
 
